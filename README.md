@@ -1,3 +1,3 @@
-#TIM
+TIM
 
 The Minecraft Transportation Exploration Mod
