@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TransportationInformationMod",
+  "name": "Transportation Information Mod",
+  "description": "Gives you detailed information about what you are riding.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Maeluth"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
