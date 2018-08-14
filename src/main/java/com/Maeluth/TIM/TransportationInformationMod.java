@@ -16,9 +16,9 @@ import org.lwjgl.input.Keyboard;
 
 
 // Tells Forge that this is a mod and it should be loaded.
-//@Mod(modid = TransportationInformationMod.MODID, name = TransportationInformationMod.NAME, version = TransportationInformationMod.VERSION)
+@Mod(modid = TransportationInformationMod.MODID, name = TransportationInformationMod.NAME, version = TransportationInformationMod.VERSION)
 public class TransportationInformationMod {
-    public static final String MODID = "maeluthtransportationinformationmod";
+    public static final String MODID = "maeluthTIM";
     public static final String NAME = "Transportation Information Mod";
     public static final String VERSION = ".1";
 
